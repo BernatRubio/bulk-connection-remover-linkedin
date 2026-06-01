@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+    --color-linkedin-bg: #1c1f23;
+    --color-linkedin-message: #81b5f5;
+    --color-linkedin-blue: #2d65bc;
+}
