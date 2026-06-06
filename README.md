@@ -14,23 +14,23 @@ A Chrome extension that allows you to efficiently remove LinkedIn connections in
 
 The extension enhances the LinkedIn **My Network → Connections** page by adding tools for bulk selection and controlled removal of connections.
 
-1. Access the Connections Page
+1. **Access the Connections Page**
 
     If you are not currently on the LinkedIn connections page, the extension popup will display a shortcut button that opens it automatically.
 
-2. Enable Selection Mode
+2. **Enable Selection Mode**
 
     On the connections page:
     
     - Click **“Show Checkboxes”** to enable selection mode
     - Check the connections you want to remove
 
-3. Configure Removal Speed
+3. **Configure Removal Speed**
 
     * Use the **wait time slider** to set the delay between each removal
     * This helps simulate natural behavior and reduces the risk of triggering platform limits
 
-4. Execute Bulk Removal
+4. **Execute Bulk Removal**
 
     * Click **“Remove Selected Connections”**
     * A confirmation dialog will appear showing the **total number of selected connections**
