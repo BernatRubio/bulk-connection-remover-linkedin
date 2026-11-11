@@ -1,6 +1,6 @@
 function addCheckboxes() {
   const connectionsList = document.querySelector<HTMLElement>(
-    'div[data-component-type="LazyColumn"][componentkey="ConnectionsPage_ConnectionsList"]',
+    'div[data-component-type="LazyColumn"][data-testid="lazy-column"]',
   );
   let observer: MutationObserver | null = null;
 
