@@ -38,7 +38,7 @@ The extension enhances the LinkedIn **My Network → Connections** page by addin
 
 ## Installation
 
-### 1. Clone and build
+#### 1. Clone and build
 
 ```bash
 git clone https://github.com/BernatRubio/bulk-connection-remover-linkedin.git
@@ -46,7 +46,7 @@ cd bulk-connection-remover-linkedin
 pnpm run build
 ```
 
-### 2. Load in Chrome
+#### 2. Load in Chrome
 
 1. Open Chrome and navigate to `chrome://extensions` (**Extensions → Manage Extensions**)
 2. Enable **Developer mode** (top-right toggle)
